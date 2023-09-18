@@ -1,11 +1,15 @@
 {
   "name": "azerbaijaninumbers",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.3",
+  "description": "This module converts integers and decimal numbers into Azerbaijan language",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rustemliqudret/azerbaijaninumbers.git"
   },
   "keywords": [
     "translate numbers to azerbaijani words",
@@ -13,5 +17,9 @@
     "azerbaijani"
   ],
   "author": "Rustemli Qudret",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rustemliqudret/azerbaijaninumbers/issues"
+  },
+  "homepage": "https://github.com/rustemliqudret/azerbaijaninumbers#readme"
 }
